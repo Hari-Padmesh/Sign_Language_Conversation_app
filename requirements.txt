@@ -1,0 +1,13 @@
+# Core libraries
+mediapipe==0.10.9
+opencv-python>=4.5.3
+protobuf==3.20.3
+numpy>=1.23.0
+
+# Machine Learning
+tensorflow>=2.11.0
+scikit-learn>=1.2.0
+
+# Optional utilities
+matplotlib>=3.7.0   # for plotting / debugging
+pandas>=1.5.0       # for handling gesture datasets
