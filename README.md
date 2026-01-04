@@ -1,4 +1,4 @@
-"# Sign Language Conversation App
+# Sign Language Conversation App
 
 A real-time sign language recognition and conversation application that enables communication between sign language users and text-based communicators. The application uses computer vision and machine learning to detect and classify hand gestures into meaningful words and phrases.
 
@@ -44,7 +44,7 @@ A real-time sign language recognition and conversation application that enables 
 mediapipe==0.10.9          # Hand landmark detection
 opencv-python>=4.5.3       # Computer vision
 tensorflow>=2.11.0         # Deep learning
-streamlit                  # Web interface
+streamlit>=1.28.0          # Web interface
 numpy>=1.23.0             # Numerical operations
 scikit-learn>=1.2.0       # ML utilities
 pandas>=1.5.0             # Data handling
@@ -307,4 +307,4 @@ For questions, suggestions, or collaboration:
 
 ---
 
-**Made with ❤️ for accessible communication**" 
+**Made with ❤️ for accessible communication**
